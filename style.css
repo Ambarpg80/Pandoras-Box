@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Maze&family=Stalinist+One&display=swap');
+
+
+body {
+    background:  #4b4647;
+  }
+
+  #name {
+    color:  #e3e2d8;
+    font-family: 'Stalinist One', cursive;
+    font-size: 45px;
+  }
+
+  div{
+background: #e3e2d8;
+  }
